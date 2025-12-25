@@ -17,3 +17,5 @@ Email: Finnwhiskey@gmail.com
 **Main Contributers**
 - @SYOP200 -Development and idea generation
 - @ClaudeAI -Image generation
+---
+<!--More coming soon...-->
