@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## What we are all about?
-- We create application source code that are for developers
+- We create applications for developers
 - We turn coffee into worth-while apps for developers of all kinds!
 ## Contributers
 Mostly scripted by @SYOP200
@@ -8,3 +8,4 @@ Mostly scripted by @SYOP200
 If you have questions or need assistance, 
 
 Email: Finnwhiskey@gmail.com
+***
