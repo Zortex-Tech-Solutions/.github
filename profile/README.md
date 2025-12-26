@@ -51,12 +51,12 @@ Check out our [Careers](https://github.com/orgs/zortex-tech/discussions/categori
 - 🤝 **Contribute code** - Check out our repositories and submit PRs
 - 📣 **Share feedback** - Tell us what's working and what isn't
 
-Visit our [💬 Discussions](https://github.com/orgs/zortex-tech/discussions) to recommend applications you'd like us to build!
+Visit our [💬 Discussions](https://github.com/orgs/Zortex-Tech-Solutions/discussions) to recommend applications you'd like us to build!
 
 ## 🚀 Get Started
 
-1. Explore our [repositories](https://github.com/orgs/zortex-tech/repositories)
-2. Join the conversation in [Discussions](https://github.com/orgs/zortex-tech/discussions)
+1. Explore our [repositories](https://github.com/orgs/Zortex-Tech-Solutions/repositories)
+2. Join the conversation in [Discussions](https://github.com/orgs/Zortex-Tech-Solutions/discussions)
 3. Follow us for updates on new tools and features
 
 ## 📫 Connect With Us
