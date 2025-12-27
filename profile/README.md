@@ -1,4 +1,4 @@
-# ☕ Zortex Tech Solutions
+# Zortex Tech Solutions
 
 <div align="center">
   
